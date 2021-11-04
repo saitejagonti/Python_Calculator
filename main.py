@@ -18,8 +18,8 @@ def division(a,b):
 
 n =(input("Please Enter Your Name: "))
 print(f'Hi {n}, Select the Numbers and Operator for Calculation')
-a=int(input("Enter a First number: "))
-b=int(input("Enter a  Second number: "))
+a=int(input("Enter the First number: "))
+b=int(input("Enter the Second number: "))
 op=(input("Now Select the Operator: "))
 
 if op=="+":
